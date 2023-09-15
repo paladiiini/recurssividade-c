@@ -31,5 +31,3 @@ Se você está apenas começando com a recursividade em C, aqui estão alguns re
 - [Documentação do C](https://www.cplusplus.com/doc/tutorial/): Consulte a documentação oficial do C para entender melhor os conceitos e funções relacionados à recursividade.
 
 - [Livro "Algoritmos em C" de Sedgewick](https://www.amazon.com.br/Algoritmos-Edi%C3%A7%C3%A3o-Robert-Sedgewick/dp/8565837185): Um livro abrangente que aborda algoritmos, incluindo a recursividade, em C.
-
-Divirta-se praticando a recursividade em C! Se tiver dúvidas ou precisar de ajuda, não hesite em abrir uma questão ou entrar em contato com outros colaboradores deste repositório.
