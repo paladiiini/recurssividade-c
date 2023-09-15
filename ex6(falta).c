@@ -13,7 +13,6 @@ int perc(h, r){
 
     }
 
-
 }
 
 int main(){
@@ -22,7 +21,12 @@ int main(){
 
     int h, r;
 
-    printf("\nInforme de qual altura a bola foi largada:\n");
+    printf("\nInforme de qual altura em metros a bola foi largada:\n");
     scanf("%d", &h);
+
+    printf("\nInforme a taxa de recuo da bola:\n");
+    scanf("%d", &r);
+
+    printf("\nA bola percorreu %d metros.\n", perc(h, r));
 
 }
